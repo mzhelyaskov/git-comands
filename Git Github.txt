@@ -1,4 +1,4 @@
-1. Создаем новй репозиторий на github.com
+1. Создаем новй репозиторий на github.com 
 
 2. Добавит имя для удлаенного репозитория в список удаленных репозиториев
 	#git remote add origin https://github.com/mzhelyaskov/new-repo.git
